@@ -499,6 +499,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
+  color: #2fff0a;
   /* font-family: bwnistaint-xbd; */
   text-transform: uppercase;
   padding: 15px;
@@ -517,15 +518,15 @@ textarea.form-control {
 }
 
 .show {
-  color:#2fff0a
+  color:#2fff0a;
 }
 
 .dropdown-menu {
   background-color:#252525;
 }
 
-.dropdown-item:active!important{
-  color:#2fff0a
+.dropdown-item:active{
+  color:#2fff0a;
 }
 
 .dark-h4 {
