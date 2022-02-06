@@ -1,3 +1,4 @@
 .DS_Store
 Launch-Statements.docx
 *.docx
+.hugo_build.lock
