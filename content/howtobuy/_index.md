@@ -10,7 +10,7 @@ author_signature: ''
 
 <br/>
 
-<p><h4>Why buy KogeCoin? To have some ownership in KogeFarm!</h4></p>
+<p><h4>Why buy KogeCoin? To be a part of the community!</h4></p>
 
 <p><h4>
 From Matic Network:</h4>
