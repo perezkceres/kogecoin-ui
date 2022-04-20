@@ -4,9 +4,9 @@ banner:
 about:
   enable: true
   content:
-    "KogeCoin is a deflationary token that launched via airdrop to all early QuickSwap users who had around 4 weeks to claim.
+    "KogeCoin is a deflationary community token that launched via airdrop to all early QuickSwap users who had around 4 weeks to claim.
     \n\nAll unclaimed KogeCoin tokens are being distributed to through our [farms](https://kogefarm.io/farms).\n\n
-    \n\nHolders of KogeCoin will benefit from the fees generated at [KogeFarm.io](https://kogefarm.io/), an auto-compounding utility built for DeFi users. 
+    \n\nKogeCoin holders help govern [KogeFarm.io](https://kogefarm.io/), an auto-compounding utility built for DeFi users.
     "
   button:
     enable: false
